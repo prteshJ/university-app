@@ -11,6 +11,7 @@ React frontend and Flask/SQLite backend application to maintain a list of univer
 For backend -
 1. pip3 install -r flask_api/requirements.txt 
 2. FLASK_APP=flask_api/app.py flask run
+
 For frontend - 
 1. npm install 
 2. npm start
